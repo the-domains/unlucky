@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[unlucky]]></title>
         <description><![CDATA[unlucky]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/unlucky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 02:44:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 02:47:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unlucky/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>undefinedac18b67c-43d3-4aa1-b781-fb2ed38788ee/index.html</link>
+            <description><![CDATA[<p>"Unlucky" is essential doublespeak for golfers across the pond. Topped drive into gorse? Fanned five-iron off planet? Missed putt no longer than your shoe? Oh...UNLUCKY.</p>]]></description>
+            <link>https://thegrid.ai/unlucky/ac18b67c-43d3-4aa1-b781-fb2ed38788ee/index.html</link>
             <guid isPermaLink="false">ac18b67c-43d3-4aa1-b781-fb2ed38788ee</guid>
-            <pubDate>Fri, 22 Apr 2016 02:44:30 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 02:47:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
