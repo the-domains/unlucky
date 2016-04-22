@@ -1,0 +1,28 @@
+name: unlucky
+favicon: null
+layout_spectrum: 0.8392160057555884
+typography_spectrum: 0.9371496003586799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.028199763037264347
+  lightness: 0.6721456272061914
+  saturation: 0.5909844252746552
+  rhythmicContrast: 0.4263139117974788
+purpose: []
